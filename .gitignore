@@ -1,0 +1,10 @@
+*.pdf
+*.x
+*.gp
+*.dat
+.vscode
+scores.dat
+build/
+.vs/
+install/
+CMakeSettings.json
